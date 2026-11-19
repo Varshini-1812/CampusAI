@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+.venv313/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# ChromaDB generated database
+chroma_db/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# IDE settings
+.vscode/
+
+# Logs
+*.log
+
+# Backup files
+app_backup.py

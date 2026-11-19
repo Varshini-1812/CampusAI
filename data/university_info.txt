@@ -1,0 +1,13 @@
+SAMPLE UNIVERSITY INFORMATION — FOR TESTING ONLY
+
+Library:
+The library is a place where students can study and access learning resources.
+
+Examinations:
+Students should consult their official university examination notices for exam dates, schedules, and rules.
+
+Attendance:
+Students should check their official university regulations for attendance requirements.
+
+Student Support:
+Students can contact their department office for guidance about courses, examinations, and academic procedures.
